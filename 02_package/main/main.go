@@ -1,9 +1,11 @@
 package main
 
 import (
-	"fmt"
+//"fmt"
+//"github.com/ShawFengZ/LearningGolang/02_package/stringUtil"
 )
 
+//02_package/stringUtil
 func main() {
-	fmt.Println(stringUtil)
+	//fmt.Println(stringUtil)
 }
