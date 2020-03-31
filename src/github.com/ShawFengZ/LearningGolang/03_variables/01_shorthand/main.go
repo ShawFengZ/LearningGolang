@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	//01
+	//01_slice-int
 	a := 10
 	b := "golang"
 	c := 4.17
